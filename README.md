@@ -18,4 +18,4 @@
 14. 김기석
 
 ## 사진 샘플
-![image1] (pic1/image.webp)
+![image1](pic1/image.webp)
