@@ -19,3 +19,7 @@
 
 ## 사진 샘플
 ![image1](pic1/image.webp)
+
+
+## 벳지 넣는 방법
+![GitHub Stats](https://github-readme-stats.vercel.app/Cov4w_USERNAME&show_icons=true)
