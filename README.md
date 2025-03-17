@@ -22,4 +22,5 @@
 
 
 ## 벳지 넣는 방법
+![Custom Badge](https://img.shields.io/badge/Hello-World-blue)
 ![GitHub Stats](https://github-readme-stats.vercel.app/Cov4w_USERNAME&show_icons=true)
